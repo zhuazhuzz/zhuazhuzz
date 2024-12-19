@@ -11,7 +11,6 @@ Welcome to my GitHub! I love anything related to web and mobile development espe
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2c2c2c?logo=typescript&logoColor=007ACC)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-2c2c2c?logo=kotlin&logoColor=7F52FF)
 ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-2c2c2c?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-2c2c2c?logo=c&logoColor=A8B9CC)
 ![R](https://img.shields.io/badge/-R-2c2c2c?logo=r&logoColor=276DC3)
 ![SQL](https://img.shields.io/badge/-SQL-2c2c2c?logo=postgresql&logoColor=336791)
 ![React](https://img.shields.io/badge/-React-2c2c2c?logo=react&logoColor=61DAFB)
