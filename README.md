@@ -20,7 +20,7 @@ Currently learning a lot in Jetpack Compose and React Native!
 ![Svelte](https://img.shields.io/badge/-Svelte-2c2c2c?logo=svelte&logoColor=FF3E00)
 ![Node.js](https://img.shields.io/badge/-Node.js-2c2c2c?logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-2c2c2c?logo=express&logoColor=000000)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-black?logo=android)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2c2c2c?logo=android)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-2c2c2c?logo=android-studio&logoColor=3DDC84)
 ![VSCode](https://img.shields.io/badge/-VSCode-2c2c2c?logo=visual-studio-code&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/-Docker-2c2c2c?logo=docker&logoColor=2496ED)
