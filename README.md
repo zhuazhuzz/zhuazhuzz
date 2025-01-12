@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I love anything related to web and mobile development especially Android. 
 
+Currently learning a lot in Jetpack Compose and React Native!
+
 ---
 ### 💻 Languages & Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/-Python-2c2c2c?logo=python&logoColor=3776AB)
@@ -14,6 +16,7 @@ Welcome to my GitHub! I love anything related to web and mobile development espe
 ![R](https://img.shields.io/badge/-R-2c2c2c?logo=r&logoColor=276DC3)
 ![SQL](https://img.shields.io/badge/-SQL-2c2c2c?logo=postgresql&logoColor=336791)
 ![React](https://img.shields.io/badge/-React-2c2c2c?logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor)
 ![Svelte](https://img.shields.io/badge/-Svelte-2c2c2c?logo=svelte&logoColor=FF3E00)
 ![Node.js](https://img.shields.io/badge/-Node.js-2c2c2c?logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-2c2c2c?logo=express&logoColor=000000)
